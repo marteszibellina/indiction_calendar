@@ -47,7 +47,7 @@ The indicative method of chronology is closely related to the **Julian calendar,
 ## Установка | Installation
 
 - Клонируйте репозиторий | Clone the repository
-`git clone `
+`git clone https://github.com/marteszibellina/indiction_calendar.git`
 - Запустите Python файл `indiction_calculator.py` | Run Python file `indiction_calculator.py`
  
 ## Как использовать | How to use
